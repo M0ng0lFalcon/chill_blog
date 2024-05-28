@@ -1,2 +1,12 @@
-# chill_blog
-web blog by vue3
+# Chill Blog
+
+## TODO
+
+- [ ] 主页
+  - [ ] 基础信息
+  - [ ] 发文量
+  - [ ] 访问量
+- [ ] 博客系统
+  - [ ] Markdown转换为博客文章
+  - [ ] 类Notion表格管理博客文章
+- [ ] 趣味功能
