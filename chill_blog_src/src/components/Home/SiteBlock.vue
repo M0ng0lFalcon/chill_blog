@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="flex flex-row gap-3">
     <ButtonBlock
       website="https://blog.csdn.net/YUSHI_wind?spm=1018.2226.3001.5343"
       site_name="csdn"
