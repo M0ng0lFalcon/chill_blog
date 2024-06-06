@@ -1,4 +1,5 @@
 <template>
+  <p class="font-bold text-2xl pb-3">导航栏</p>
   <div class="flex flex-row gap-3">
     <ButtonBlock
       website="https://blog.csdn.net/YUSHI_wind?spm=1018.2226.3001.5343"
