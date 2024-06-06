@@ -20,7 +20,7 @@
       </button>
     </div>
     <div class="flex-1">
-      <a class="btn btn-ghost text-xl">daisyUI</a>
+      <a class="btn btn-ghost text-xl">Chill Blog</a>
     </div>
     <div class="flex-none">
       <button class="btn btn-square btn-ghost">

@@ -1,10 +1,5 @@
-<script>
-import SiteBlock from "./SiteBlock.vue";
-export default {
-  components:{
-    SiteBlock,
-  }
-}
+<script setup lang="ts">
+import SiteBlock from './SiteBlock.vue'
 </script>
 
 <template>
