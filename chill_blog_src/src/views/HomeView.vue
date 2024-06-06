@@ -4,13 +4,15 @@ import SiteBlock from '@/components/Home/SiteBlock.vue'
 </script>
 
 <template>
-  <main class="flex h-full w-full p-5">
+  <main class="flex h-full p-5">
     <div class="w-18">
       <MenuVertical></MenuVertical>
     </div>
 
     <div class="flex-1 pl-5">
-      <SiteBlock />
+      <div class="flex flex-col gap-y-5">
+        <SiteBlock />
+      </div>
     </div>
   </main>
 </template>
