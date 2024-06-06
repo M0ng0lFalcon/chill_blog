@@ -1,7 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-  <ul class="menu bg-neutral text-neutral-content rounded-box">
+  <ul class="menu bg-slate-700 text-neutral-content rounded-box">
     <li>
       <a class="tooltip tooltip-right" data-tip="Home">
         <svg

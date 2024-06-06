@@ -1,7 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-  <div class="navbar bg-neutral text-neutral-content">
+  <div class="navbar bg-slate-700 text-neutral-content">
     <div class="flex-none">
       <button class="btn btn-square btn-ghost">
         <svg
