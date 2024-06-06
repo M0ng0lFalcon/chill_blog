@@ -20,7 +20,6 @@ defineProps(['website', 'site_name', 'description', 'img_src'])
   border-radius: 15px;
   overflow: hidden;
   transition: all 0.25s;
-  margin: 10px;
 }
 
 .Block:hover .Button-h1 {
