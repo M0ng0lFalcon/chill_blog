@@ -9,7 +9,7 @@ import SiteBlock from '@/components/Home/SiteBlock.vue'
       <MenuVertical></MenuVertical>
     </div>
 
-    <div class="flex-1">
+    <div class="flex-1 pl-5">
       <SiteBlock />
     </div>
   </main>
