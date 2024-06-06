@@ -4,7 +4,7 @@ import SiteBlock from '@/components/Home/SiteBlock.vue'
 </script>
 
 <template>
-  <main class="flex h-screen w-screen p-5">
+  <main class="flex h-full w-full p-5">
     <div class="w-18">
       <MenuVertical></MenuVertical>
     </div>
