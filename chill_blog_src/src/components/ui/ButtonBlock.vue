@@ -5,14 +5,14 @@
       <p class="Button-p">{{ description }}</p>
     </div>
     <div class="Button-div"><img :src="img_src" alt="" class="Button-img rounded-2xl" /></div>
-  </a>
+  </a>  
 </template>
 
 <script setup lang="ts">
 defineProps(['website', 'site_name', 'description', 'img_src'])
 </script>
 
-<style>
+<style scoped>
 .Block {
   display: inline-block;
   height: 100px;
